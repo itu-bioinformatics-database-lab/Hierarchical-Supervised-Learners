@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/github/license/itu-bioinformatics-database-lab/Hierarchical-Supervised-Learners?color=blue)](LICENSE)
 
 Artifact repository for the paper _Scalable classification of organisms into a taxonomy using hierarchical supervised learners_, accepted at _Journal of Bioinformatics and Computational Biology_.
-Authors are [Gihad N. Sohsah][gihad] [Ali Reza Ibrahimzada][ali], [Huzeyfe Ayaz][huzeyfe], and [Ali Cakmak][acakmak]
+Authors are [Gihad N. Sohsah][gihad], [Ali Reza Ibrahimzada][ali], [Huzeyfe Ayaz][huzeyfe], and [Ali Cakmak][acakmak]
 
 [gihad]: https://github.com/gnageeb
 [ali]: https://alibrahimzada.github.io/
